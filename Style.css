@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    background: linear-gradient(blue, red, green) no-repeat;
+}
+
+.line {
+    width: 300px;
+    height: 10px;
+    background-color: black;
+    margin: 5px auto;
+}
+
+iframe {
+    margin: 50px;
+}
+img {
+    width:300px;
+        height:300px;
+}
